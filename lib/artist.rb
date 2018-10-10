@@ -4,3 +4,4 @@ class Artist
     @name = name
 
   end
+artist = Artist.new
