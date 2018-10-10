@@ -2,6 +2,7 @@ class Artist
   attr_reader :name
   def initialize(name)
     @name = name
-@artist = Artist.new
+def name
+  @name = name
+end
   end
-
